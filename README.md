@@ -13,7 +13,7 @@ Resulting in an image like this:
 
 ![Dungeon Room Builder](/4x2.example.png "Copyright 2-Minute Tabletop")
 
-*"[Dungeon Room Builder](/4x2.example.png)" by
+*"[Dungeon Room Builder](https://2minutetabletop.com/gallery/dungeon-room-builder/)" by
 [2-Minute Tabletop](https://2minutetabletop.com) licensed under
 [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)*
 
