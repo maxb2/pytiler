@@ -11,9 +11,9 @@ The simplest way to make a 4x2 image with a single tile is:
 
 Resulting in an image like this:
 
-![Copyright 2-Minute Tabletop](/4x2.example.png "Copyright 2-Minute Tabletop")
+![Dungeon Room Builder](/4x2.example.png "Copyright 2-Minute Tabletop")
 
-*"[Copyright 2-Minute Tabletop](/4x2.example.png)" by
+*"[Dungeon Room Builder](/4x2.example.png)" by
 [2-Minute Tabletop](https://2minutetabletop.com) licensed under
 [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)*
 
