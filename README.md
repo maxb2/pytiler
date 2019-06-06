@@ -1,13 +1,23 @@
 # pytiler
 
 A python tool to create a bigger image out of image tiles. *pytiler* is especially useful for building RPG maps from tilesets using conventional photo editing software such as [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/).
+*pytiler* makes arbitrarily sized rectangular images out of a tileset so that you don't have to manually place every tile in your photo editor.
 
 ### Usage
 
 The simplest way to make a 4x2 image with a single tile is:
+
 `python pytiler.py 4 2 tile.png`
 
-*pytiler* can also select from a group of tiles and even randomly rotate them for a more natural look. See the usage for more details.
+Resulting in an image like this:
+
+![Copyright 2-Minute Tabletop](/4x2.example.png "Copyright 2-Minute Tabletop")
+
+*"[Copyright 2-Minute Tabletop](/4x2.example.png)" by
+[2-Minute Tabletop](https://2minutetabletop.com) licensed under
+[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)*
+
+*pytiler* can also select from a group of tiles, and even randomly rotate them for a more natural look. See the usage for more details.
 
 ```
 $python pytiler.py -h
