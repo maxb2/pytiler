@@ -1,13 +1,13 @@
 # pytiler
 
-A python tool to create a bigger image out of image tiles. pytiler is especially useful for building RPG maps from tilesets using conventional photo editing software such as [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/).
+A python tool to create a bigger image out of image tiles. *pytiler* is especially useful for building RPG maps from tilesets using conventional photo editing software such as [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/).
 
 ### Usage
 
 The simplest way to make a 4x2 image with a single tile is:
 `python pytiler.py 4 2 tile.png`
 
-pytiler can also select from a group of tiles and even randomly rotate them for a more natural look. See the usage for more details.
+*pytiler* can also select from a group of tiles and even randomly rotate them for a more natural look. See the usage for more details.
 
 ```
 $python pytiler.py -h
@@ -28,4 +28,4 @@ optional arguments:
 ```
 
 #### Tile subdivisions
-Some tilesets come with an alpha border, see [2-Minute Tabletop Dungeon Room Builder](https://2minutetabletop.com/gallery/dungeon-room-builder/). pytiler handles these with the `-t, --tile-divs` option. For example, if you have a tile image that has an alpha border the same width as the width of the image, you would use `-t 3` since the actual image is 1/3 of the total image length.
+Some tilesets come with an alpha border, see [2-Minute Tabletop Dungeon Room Builder](https://2minutetabletop.com/gallery/dungeon-room-builder/). *pytiler* handles these with the `-t, --tile-divs` option. For example, if you have a tile image that has an alpha border the same width as the width of the image, you would use `-t 3` since the actual image is 1/3 of the total image length.
